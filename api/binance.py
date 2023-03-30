@@ -1,0 +1,4 @@
+BASE_ENDPOINT = 'https://api.binance.com'
+PRICE_ENDPOINT = BASE_ENDPOINT + '/api/v3/ticker/price'
+API_KEY_BINANCE = 'McnU2pyj9TQhVZ7FqRFpYbJX9LYt6amUbxW65BMlgUmcHxMQ9swRFawNlShU5gst'
+API_SECRET_KEY_BINANCE = 'kLhvByq8RBh3zCdMbsHciaE4Yh4rvjAx3dt7SN0v827rqEKdQkjCQeThzS6leDJ6'
